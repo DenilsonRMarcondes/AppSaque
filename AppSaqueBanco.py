@@ -3,6 +3,7 @@ import tkinter as tk
 from tkinter import ttk, messagebox
 from typing import Callable
 
+#inicio do codigo do saque
 def create_account(owner: str, initial: float = 0.0):
     balance = float(initial)
 
