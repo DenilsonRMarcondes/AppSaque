@@ -8,6 +8,7 @@ import sqlite3
 
 #Esse app conta com conexao com banco de dados SQLite para armazenar o saldo da conta e foi desenvolvido com ajuda da inteligência artificial
 
+#teste de commit na branch de dev para testar ver se o github está configurado
 # =========================
 # CONFIGURAÇÃO DO BANCO
 # =========================
