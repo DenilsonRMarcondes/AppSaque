@@ -10,7 +10,7 @@ import sqlite3
 
 #teste de commit na branch de dev para testar ver se o github está configurado
 # =========================
-# CONFIGURAÇÃO DO BANCO
+# CONFIGURAÇÃO DO BANCOOOOO
 # =========================
 
 DB_NAME = "bank.db"
