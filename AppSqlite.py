@@ -186,8 +186,7 @@ class AccountGUI:
             messagebox.showwarning("Operação inválida", str(e))
         except Exception as e:
             messagebox.showerror("Erro inesperado", str(e))
-
-
+            
 # =========================
 # PROGRAMA PRINCIPAL
 # =========================
